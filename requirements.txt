@@ -1,0 +1,8 @@
+opencv-python-headless
+numpy
+pillow
+pytesseract
+pandas
+# 선택적으로, PaddleOCR를 쓰려면 아래 두 줄 추가
+# paddlepaddle==2.6.1
+# paddleocr==2.7.0.3
