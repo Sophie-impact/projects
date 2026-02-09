@@ -1,0 +1,258 @@
+[
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "미래는 생성되지 않는다",
+    "publisher": "동아시아",
+    "authors": ["박주용"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "사회 이슈"],
+    "coverColor": "#f26a4f",
+    "recommendation": "미래 기술과 사회 변화를 함께 고민하고 싶은 어른에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "어떻게 민주주의는 무너지는가",
+    "publisher": "미상",
+    "authors": ["스티븐 레비츠키", "대니얼 지블랫"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "토론 준비"],
+    "coverColor": "#4e5d6c",
+    "recommendation": "민주주의의 취약점을 이해하고 싶은 성인 독자에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "어떻게 극단적 소수가 다수를 지배하는가",
+    "publisher": "미상",
+    "authors": ["스티븐 레비츠키", "대니얼 지블랫"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "토론 준비"],
+    "coverColor": "#6b7c85",
+    "recommendation": "정치·제도와 권력의 구조를 살펴보고 싶은 독자에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "타인에 대한 연민",
+    "publisher": "미상",
+    "authors": ["마사 누스바움"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "감정/윤리"],
+    "coverColor": "#be6e46",
+    "recommendation": "윤리와 공감의 의미를 다시 생각해 보고 싶은 사람에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "서양 중세의 아리스토텔레스 수용사",
+    "publisher": "누멘",
+    "authors": ["박종천"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "학술"],
+    "coverColor": "#8ea1a5",
+    "recommendation": "중세 철학과 사상사를 깊게 읽고 싶은 독자에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "자유주의 이전의 민주주의",
+    "publisher": "휴머니타스",
+    "authors": ["조샤 오버"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "정치"],
+    "coverColor": "#647aa5",
+    "recommendation": "고대 정치 사상과 민주주의의 기원을 살펴보고 싶은 독자에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "플라톤 중국에 가다",
+    "publisher": "미상",
+    "authors": ["사다 베키"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "비교 문화"],
+    "coverColor": "#f08d49",
+    "recommendation": "철학이 문화와 제도에 미치는 영향을 비교해 보고 싶은 독자에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "왜 자유주의는 실패했는가",
+    "publisher": "미상",
+    "authors": ["패트릭 J. 디닌"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "정치"],
+    "coverColor": "#3b4c6b",
+    "recommendation": "자유주의의 한계와 대안을 고민하는 독자에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "예수와 권세",
+    "publisher": "미상",
+    "authors": ["톰 라이트", "마이클 F. 버드"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "신앙"],
+    "coverColor": "#d14c52",
+    "recommendation": "신앙과 정치, 권력의 관계를 사유하고 싶은 독자에게 추천"
+  },
+  {
+    "series": "아브라함 카이퍼 시리즈",
+    "title": "칼빈주의 강연",
+    "publisher": "다함",
+    "authors": ["아브라함 카이퍼"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "신앙"],
+    "coverColor": "#7b3d3f",
+    "recommendation": "기독교 세계관과 근대 사상을 연결해 읽고 싶은 독자에게 추천"
+  },
+  {
+    "series": "아브라함 카이퍼 시리즈",
+    "title": "아브라함 카이퍼의 영역 주권",
+    "publisher": "다함",
+    "authors": ["아브라함 카이퍼"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "신앙"],
+    "coverColor": "#5f7d7a",
+    "recommendation": "신앙과 사회 영역의 관계를 탐구하고 싶은 독자에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "EXHALATION",
+    "publisher": "엘리",
+    "authors": ["Ted Chiang"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "SF"],
+    "coverColor": "#d3b88c",
+    "recommendation": "SF와 철학적 질문을 함께 즐기고 싶은 독자에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "Essays on Aristotle's De Anima",
+    "publisher": "미상",
+    "authors": ["Martha Nussbaum", "Richard Rorty"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "학술"],
+    "coverColor": "#b5c9c6",
+    "recommendation": "아리스토텔레스의 영혼론을 학술적으로 읽고 싶은 독자에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "보이지 않는 노동자들",
+    "publisher": "미상",
+    "authors": ["이승윤"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["깊이 읽기", "사회 이슈"],
+    "coverColor": "#f0b45c",
+    "recommendation": "노동의 사각지대를 이해하고 싶은 독자에게 추천"
+  },
+  {
+    "series": "어른을 위한 인문/사회",
+    "title": "최고의 프로덕트는 무엇이 다른가",
+    "publisher": "미상",
+    "authors": ["유진호"],
+    "audience": "어른",
+    "ageRange": "성인",
+    "situation": ["업무", "깊이 읽기"],
+    "coverColor": "#f0a2a6",
+    "recommendation": "프로덕트 기획과 성장 전략을 정리하고 싶은 실무자에게 추천"
+  },
+  {
+    "series": "그림책",
+    "title": "소년과 고래",
+    "publisher": "웅진",
+    "audience": "아이",
+    "ageRange": "4-7세",
+    "situation": ["취침 전", "감성"],
+    "coverColor": "#7aaed8",
+    "recommendation": "잔잔한 감성의 그림책을 찾는 가족에게 추천"
+  },
+  {
+    "series": "그림책",
+    "title": "도와줘, 늑대가 나타났어!",
+    "publisher": "미상",
+    "audience": "아이",
+    "ageRange": "4-7세",
+    "situation": ["용기", "대화 시작"],
+    "coverColor": "#f0c1a4",
+    "recommendation": "두려움과 용기를 이야기 나누고 싶은 아이에게 추천"
+  },
+  {
+    "series": "그림책",
+    "title": "노란 카약",
+    "publisher": "미상",
+    "audience": "아이",
+    "ageRange": "5-8세",
+    "situation": ["자연", "모험"],
+    "coverColor": "#f5d061",
+    "recommendation": "자연과 모험을 좋아하는 아이에게 추천"
+  },
+  {
+    "series": "그림책",
+    "title": "한입에 덥석",
+    "publisher": "미상",
+    "audience": "아이",
+    "ageRange": "4-7세",
+    "situation": ["리듬", "재미"],
+    "coverColor": "#ff8b6b",
+    "recommendation": "리듬감 있는 이야기를 좋아하는 아이에게 추천"
+  },
+  {
+    "series": "그림책",
+    "title": "보들보들",
+    "publisher": "미상",
+    "audience": "아이",
+    "ageRange": "3-6세",
+    "situation": ["촉감", "감정"],
+    "coverColor": "#c3b4e5",
+    "recommendation": "촉감 표현과 감정 묘사를 좋아하는 아이에게 추천"
+  },
+  {
+    "series": "그림책",
+    "title": "꼬마 곰 코코",
+    "publisher": "미상",
+    "audience": "아이",
+    "ageRange": "3-6세",
+    "situation": ["첫 독서", "짧은 책"],
+    "coverColor": "#88c0b5",
+    "recommendation": "짧고 귀여운 이야기로 읽기 시간을 시작하는 아이에게 추천"
+  },
+  {
+    "series": "그림책",
+    "title": "너의 마음은 하늘과 같아",
+    "publisher": "미상",
+    "audience": "아이",
+    "ageRange": "4-7세",
+    "situation": ["감정", "대화 시작"],
+    "coverColor": "#9ad1f5",
+    "recommendation": "감정 표현을 연습하는 아이에게 추천"
+  },
+  {
+    "series": "그림책",
+    "title": "마녀의 마중 어디나 될 수 있어",
+    "publisher": "미상",
+    "audience": "아이",
+    "ageRange": "5-8세",
+    "situation": ["상상력", "모험"],
+    "coverColor": "#8f97d8",
+    "recommendation": "상상력과 모험을 좋아하는 아이에게 추천"
+  },
+  {
+    "series": "미래그림책",
+    "title": "1999년 6월 29일",
+    "publisher": "미래아이",
+    "authors": ["데이비드 위즈너"],
+    "audience": "아이",
+    "ageRange": "6-9세",
+    "situation": ["상상력", "과학"],
+    "coverColor": "#5aa7d8",
+    "recommendation": "기묘한 상상력을 즐기고 싶은 아이에게 추천"
+  }
+]
