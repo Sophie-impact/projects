@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>우리집 책장</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__content">
+      <p class="eyebrow">HOME LIBRARY</p>
+      <h1>우리집 책장</h1>
+      <p class="subtitle">
+        온라인 책장처럼 책표지가 한 줄에 5~6권 보이도록 구성했습니다. 필요한 책 정보를 알려주시면
+        계속 업데이트할게요.
+      </p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <div class="control">
+        <label for="search">검색</label>
+        <input id="search" type="search" placeholder="제목, 시리즈, 출판사, 작가명을 검색" />
+      </div>
+      <div class="control">
+        <label for="series">시리즈</label>
+        <select id="series">
+          <option value="">전체</option>
+        </select>
+      </div>
+      <div class="control">
+        <label for="audience">추천 대상</label>
+        <select id="audience">
+          <option value="">전체</option>
+        </select>
+      </div>
+      <div class="control">
+        <label for="age">나이대</label>
+        <select id="age">
+          <option value="">전체</option>
+        </select>
+      </div>
+      <div class="control">
+        <label for="situation">상황/목적</label>
+        <select id="situation">
+          <option value="">전체</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="summary">
+      <div class="summary__card">
+        <p class="summary__label">총 책 수</p>
+        <p id="count" class="summary__value">0</p>
+      </div>
+      <div class="summary__card">
+        <p class="summary__label">시리즈 수</p>
+        <p id="series-count" class="summary__value">0</p>
+      </div>
+      <div class="summary__card">
+        <p class="summary__label">추천 노트</p>
+        <p class="summary__value">취침 전 · 대화 시작 · 깊이 읽기</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>온라인 책장</h2>
+      <div id="books" class="shelf" aria-live="polite"></div>
+    </section>
+
+    <section class="note">
+      <h2>알라딘 API 활용 메모</h2>
+      <p>
+        알라딘 Open API 키가 있으면 자동으로 책 소개/목차를 붙일 수 있어요. 아래에 API 키를
+        넣고 <code>fetchAladin</code> 함수의 주석을 참고해 확장하면 됩니다.
+      </p>
+      <pre><code>// script.js 안에서
+const ALADIN_API_KEY = "YOUR_API_KEY";
+</code></pre>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>필요한 책 정보(시리즈/작가/출판사)가 더 있으면 알려주세요!</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
